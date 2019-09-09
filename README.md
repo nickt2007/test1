@@ -1,1 +1,3 @@
-# test1
+mermaid
+graph TD
+   A --> B
